@@ -3,7 +3,7 @@
   "displayName": "Terminal Image Paster",
   "description": "Allows pasting clipboard images directly into the integrated terminal as file paths.",
   "version": "0.0.1",
-  "publisher": "antigravity",
+  "publisher": "ss-fia",
   "engines": {
     "vscode": "^1.80.0"
   },
