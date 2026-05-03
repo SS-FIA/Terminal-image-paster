@@ -1,0 +1,33 @@
+{
+  "name": "terminal-image-paster",
+  "displayName": "Terminal Image Paster",
+  "description": "Allows pasting clipboard images directly into the integrated terminal as file paths.",
+  "version": "0.0.1",
+  "publisher": "antigravity",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onCommand:terminal-image-paster.paste"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "terminal-image-paster.paste",
+        "title": "Paste Image to Terminal"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "terminal-image-paster.paste",
+        "key": "cmd+v",
+        "mac": "cmd+v",
+        "when": "terminalFocus"
+      }
+    ]
+  }
+}
