@@ -1,5 +1,9 @@
 # Terminal Image Paster
 
+> **[🔥 Product page: Terminal Image Paster](https://olbin.dev/terminal-image-paster.html)** · [日本語](https://olbin.dev/terminal-image-paster-ja.html)  
+> *Paste clipboard images into the VS Code terminal as absolute paths — macOS / olbin.dev.*
+
+
 A robust Visual Studio Code extension that allows you to seamlessly paste images from your clipboard directly into the integrated terminal as file paths. 
 
 Say goodbye to manual `[CLIP]` tags and tedious screenshot saving. Just copy an image to your clipboard and hit `Cmd+V` (or your configured paste shortcut) in the terminal!
@@ -33,3 +37,17 @@ This extension was developed to solve the flakiness of traditional clipboard ext
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## Related projects ([olbin.dev](https://olbin.dev/))
+
+| Project | Role |
+|---------|------|
+| [cAgent](https://github.com/olbin-dev/cAgent) | OpenClaw ↔ AgentKit JSON-RPC bridge — [case study](https://olbin.dev/factory.html) |
+| [Vault Sync for Dropbox](https://github.com/olbin-dev/plugin) | Obsidian ↔ Dropbox sync — [product page](https://olbin.dev/vault-sync.html) |
+| [Local LLM Brain Chat](https://github.com/olbin-dev/obisidian-Plugin-LocalLLM) | Obsidian ↔ local llama.cpp — [product page](https://olbin.dev/local-llm.html) |
+| [LogosCyber](https://github.com/olbin-dev/logos-cyber) | Nuclei template AI scanner — [product page](https://olbin.dev/logos-cyber.html) |
+| [Terminal Image Paster](https://github.com/olbin-dev/Terminal-image-paster) | VS Code clipboard→terminal paths — [product page](https://olbin.dev/terminal-image-paster.html) |
+| [Sovereign Systems Log](https://github.com/olbin-dev/SSjapantokyokugahara) | Technical log — [product page](https://olbin.dev/ss-log.html) |
+| [All projects](https://olbin.dev/projects.html) | Full catalog on olbin.dev |
+
